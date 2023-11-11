@@ -1,0 +1,27 @@
+ls -a -r -s
+sleep 1
+invalid name
+ls -a -r -s
+sleep 1
+invalid name
+ls -a -r -s
+sleep 1
+ls -a -r -s
+sleep 1
+invalid name
+ls -a -r -s
+sleep 1
+invalid name
+ls -a -r -s
+sleep 1
+invalid name
+ls -a -r -s
+sleep 1
+invalid name
+ls -a -r -s
+sleep 1
+invalid name
+ls -a -r -s
+sleep 1
+./iobound -seconds 10
+./cpubound -seconds 10
